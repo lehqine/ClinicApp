@@ -1,0 +1,45 @@
+Room  1
+Doctor's name: Wong Teck Ung
+Dortor's ID:  A001
+Room doctor:  1
+Appointment Time:  8.30am-5pm
+Rest time:  12pm-1pm
+Patient's name: Jacelyn Ting
+Patient's ID:  AB01
+Time:  10.00am
+Disease:  Cough
+Health problem:  Fever
+Medicine: Paracetamol
+Quantity:  10
+Availability:  Available
+
+Room  2
+Doctor's name: Anesha Oliviana
+Dortor's ID:  A002
+Room doctor:  2
+Appointment Time:  9am-5.30pm
+Rest time:  12.30pm-1.45pm
+Patient's name: Adrille Kong
+Patient's ID:  AB02
+Time:  9.30am
+Disease:  Menstrual cramps
+Health problem:  Menstrual cramps
+Medicine: Mefenamic acid
+Quantity:  5
+Availability:  Available
+
+Room  3
+Doctor's name: Jontham Tang
+Dortor's ID:  A003
+Room doctor:  3
+Appointment Time:  8am-5pm
+Rest time:  11.45am-1pm
+Patient's name: Erica Desirae
+Patient's ID:  AB03
+Time:  8.15am
+Disease:  Skin abrasions
+Health problem:  Inflammation
+Medicine: Acexamic acid
+Quantity:  17
+Availability:  Available
+

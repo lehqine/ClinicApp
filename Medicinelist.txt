@@ -1,0 +1,4 @@
+Name  Quantity  Availability  
+Paracetamol, 10, Available, 
+Mefenamic acid, 5, Available, 
+Acexamic acid, 17, Available, 

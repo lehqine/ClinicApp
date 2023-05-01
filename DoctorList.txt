@@ -1,0 +1,4 @@
+Name  ID  Room  Appointment Time  Rest Time  
+Wong Teck Ung, A001, 1, 8.30am-5pm, 12pm-1pm, 
+Anesha Oliviana, A002, 2, 9am-5.30pm, 12.30pm-1.45pm, 
+Jontham Tang, A003, 3, 8am-5pm, 11.45am-1pm, 
